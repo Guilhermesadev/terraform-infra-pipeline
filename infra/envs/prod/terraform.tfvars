@@ -1,1 +1,1 @@
-bucket_name="prod-us-east-1a-buildrun-video-pipelines"
+bucket_name="prod-us-east-2-buildrun-video-pipelines"
